@@ -15,7 +15,7 @@ int main(void) {
     int d_x = 1, d_y = 0;
     int player1_y = H / 2, player2_y = H / 2;
     int score1 = 0, score2 = 0;
-    int speed = 75;
+    int speed = 100;
 
     initscr();
     noecho();
